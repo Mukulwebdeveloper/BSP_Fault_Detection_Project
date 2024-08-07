@@ -1,0 +1,13 @@
+[
+    {
+        "name": "CVAH_L1",
+        "model_path": "./trained_models/16mm/CVAH1/cvah1_pca.pkl",
+        "scaling_path": "./trained_models/16mm/CVAH1/cvah1_scaling.pkl",
+        "columns_path": "./trained_models/16mm/CVAH1/cvah1_columns.pkl",
+        "threshold": 0.36,
+        "max_td": 5,
+        "k": 10
+    }
+]
+
+

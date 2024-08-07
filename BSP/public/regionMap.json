@@ -1,0 +1,12 @@
+{
+  "CVAH_L2": [
+    {
+      "sensor": "[12:44]_Master speed percentage",
+      "weight": 3
+    },
+    {
+      "sensor": "[9.226]_Ghost Rolling",
+      "weight": 6
+    }
+  ]
+}
